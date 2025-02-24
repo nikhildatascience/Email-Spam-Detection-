@@ -1,6 +1,5 @@
 # 📧 Email Spam Detection Using Machine Learning  
 
-![Spam Detection](https://cdn.pixabay.com/photo/2016/11/19/15/26/email-1839873_1280.jpg)  
 
 ## 🚀 Overview  
 This project uses Machine Learning (Naïve Bayes) to classify emails as Spam or Ham (not spam). It provides:  
