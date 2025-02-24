@@ -78,4 +78,3 @@ Try the live demo on Hugging Face:
 
 ## License  
 This project is open-source under the MIT License. You are free to modify and use it.  
-```
