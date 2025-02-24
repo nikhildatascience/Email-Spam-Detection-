@@ -1,4 +1,3 @@
-
 # 📧 Email Spam Detection Using Machine Learning  
 
 ## 🚀 Overview  
@@ -19,13 +18,14 @@ This project leverages Machine Learning (Naïve Bayes) to classify emails as **S
 ## 📂 Project Structure  
 
 📁 **Email-Spam-Detection**  
-│── 📜 `app.py`               → Main application script  
-│── 📜 `spam_model.pkl`       → Trained Naïve Bayes model  
-│── 📜 `spam_vectorizer.pkl`  → CountVectorizer for text processing  
-│── 📜 `requirements.txt`     → Dependencies required for the project  
-│── 📜 `metadata.yaml`        → Configuration for Hugging Face Spaces  
-│── 📜 `LICENSE`              → Open-source MIT license  
-│── 📜 `README.md`            → Project documentation  
+│── 📜 `Datasets.xlsb`         → Dataset used for training the model  
+│── 📜 `LICENSE`               → Open-source MIT license  
+│── 📜 `README.md`             → Project documentation  
+│── 📜 `app.py`                → Main application script  
+│── 📜 `metadata.yaml`         → Configuration for Hugging Face Spaces  
+│── 📜 `requirements.txt`      → Dependencies required for the project  
+│── 📜 `spam_model.pkl`        → Trained Naïve Bayes model  
+│── 📜 `spam_vectorizer.pkl`   → CountVectorizer for text processing  
 
 ## 🖥️ How to Run Locally  
 
